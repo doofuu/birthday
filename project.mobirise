@@ -333,7 +333,7 @@
                 "buttons": " <a data-app-btn=\"true\" class=\"btn  btn-white-outline display-4\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">FOR MAC</a>"
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/mbr-717x1080.jpg",
+                "image": "@PROJECT_PATH@/assets/images/cubbon-1107x830.jpg",
                 "active": false,
                 "showButtons": false,
                 "showText": true,
@@ -350,7 +350,7 @@
                 "buttons": " <a data-app-btn=\"true\" class=\"btn  btn-white-outline display-4\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">FOR MAC</a>"
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/mbr-1920x1041.jpg",
+                "image": "@PROJECT_PATH@/assets/images/lake-830x830.jpg",
                 "active": false,
                 "showButtons": false,
                 "showText": true,
@@ -367,7 +367,7 @@
                 "buttons": " <a data-app-btn=\"true\" class=\"btn  btn-white-outline display-4\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">FOR MAC</a>"
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/mbr-1620x1080.jpg",
+                "image": "@PROJECT_PATH@/assets/images/hotel-1107x830.jpg",
                 "active": false,
                 "showButtons": false,
                 "showText": true,
@@ -384,7 +384,7 @@
                 "buttons": " <a data-app-btn=\"true\" class=\"btn  btn-white-outline display-4\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">FOR MAC</a>"
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/mbr-1-1620x1080.jpg",
+                "image": "@PROJECT_PATH@/assets/images/doggo-1190x892.jpg",
                 "active": false,
                 "showButtons": false,
                 "showText": true,
@@ -401,8 +401,8 @@
                 "buttons": " <a data-app-btn=\"true\" class=\"btn  btn-white-outline display-4\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">FOR MAC</a>"
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/mbr-1793x1080.jpg",
-                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/snooker-1107x830.jpg",
+                "active": true,
                 "showButtons": false,
                 "showText": true,
                 "showTitle": false,
@@ -414,7 +414,7 @@
                 "title": "",
                 "overlay": true,
                 "contentAlign": "center",
-                "text": "Not to forget the air of competition\n<br>Defeated, in air hockey, by a narrow margin, \n<br>Only to be brought, in carrom, to my knees\n<br>And \"boggle\"d by Birdie's quick abc's",
+                "text": "Not to forget the air of competition\n<br>Defeated, in air hockey and snooker, by a narrow margin, \n<br>Only to be brought, in carrom, to my knees\n<br>And \"boggle\"d by Birdie's quick abc's",
                 "buttons": " <a data-app-btn=\"true\" class=\"btn  btn-white-outline display-4\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">FOR MAC</a>"
               },
               {
@@ -435,7 +435,7 @@
                 "buttons": " <a data-app-btn=\"true\" class=\"btn  btn-white-outline display-4\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">FOR MAC</a>"
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/mbr-2-1620x1080.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-20171112-160837-1190x892.jpg",
                 "active": false,
                 "showButtons": false,
                 "showText": true,
@@ -486,7 +486,7 @@
                 "buttons": " <a data-app-btn=\"true\" class=\"btn  btn-white-outline display-4\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">FOR MAC</a>"
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/mbr-1619x1080.jpg",
+                "image": "@PROJECT_PATH@/assets/images/science-622x830.jpg",
                 "active": false,
                 "showButtons": false,
                 "showText": true,
@@ -503,7 +503,7 @@
                 "buttons": " <a data-app-btn=\"true\" class=\"btn  btn-white-outline display-4\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">FOR MAC</a>"
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/mbr-1-1920x1080.jpg",
+                "image": "@PROJECT_PATH@/assets/images/hesaraghatta2-1108x830.jpg",
                 "active": false,
                 "showButtons": false,
                 "showText": true,
@@ -589,7 +589,7 @@
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/mbr-1664x1080.jpg",
-                "active": true,
+                "active": false,
                 "showButtons": false,
                 "showText": true,
                 "showTitle": false,
