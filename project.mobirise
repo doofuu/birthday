@@ -279,6 +279,9 @@
             },
             ".mbr-overlay ~ .container-slide": {
               "z-index": "auto"
+            },
+            "P": {
+              "text-align": "center"
             }
           },
           "_name": "slider1",
@@ -316,7 +319,7 @@
                 "buttons": " <a data-app-btn=\"true\" class=\"btn  btn-white-outline display-4\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">FOR MAC</a>"
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/mbr-1920x1080.jpg",
+                "image": "@PROJECT_PATH@/assets/images/bangalore-1107x830.jpg",
                 "active": false,
                 "showButtons": false,
                 "showText": true,
@@ -346,7 +349,7 @@
                 "title": "",
                 "overlay": true,
                 "contentAlign": "center",
-                "text": "Galloping in the midst of greenery\n<br>Lalbagh and Cubbon Park, to enjoy the scenery\n<br>JP Park, to call a passerby, \"aunty\"\n<br>Police Traffic Park just falling short of sanskaari",
+                "text": "Galloping in the midst of greenery\n<br>Lalbagh and Cubbon Park, to enjoy the scenery\n<br>JP Park, to call a passerby, \"aunty\"\n<br>Police Traffic Park, just falling short of sanskaari",
                 "buttons": " <a data-app-btn=\"true\" class=\"btn  btn-white-outline display-4\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">FOR MAC</a>"
               },
               {
@@ -367,7 +370,7 @@
                 "buttons": " <a data-app-btn=\"true\" class=\"btn  btn-white-outline display-4\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">FOR MAC</a>"
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/hotel-1107x830.jpg",
+                "image": "@PROJECT_PATH@/assets/images/hotel-2-1107x830.jpg",
                 "active": false,
                 "showButtons": false,
                 "showText": true,
@@ -402,7 +405,7 @@
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/snooker-1107x830.jpg",
-                "active": true,
+                "active": false,
                 "showButtons": false,
                 "showText": true,
                 "showTitle": false,
@@ -418,7 +421,7 @@
                 "buttons": " <a data-app-btn=\"true\" class=\"btn  btn-white-outline display-4\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">FOR MAC</a>"
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/mbr-720x1080.jpg",
+                "image": "@PROJECT_PATH@/assets/images/book-1107x830.jpg",
                 "active": false,
                 "showButtons": false,
                 "showText": true,
@@ -448,11 +451,11 @@
                 "title": "",
                 "overlay": true,
                 "contentAlign": "center",
-                "text": "Spellbound by Handlebards and Ruskin bond's short skit\n<br>A rendition of Kafka's work, totally unfit\n<br>Discovered at NGMA, Films from a bygone age\n<br>Permit us to conclude that all the world's a stage",
+                "text": "<br><br><br><br><br><br><br><br><br>Spellbound by Handlebards and Ruskin bond's short skit\n<br>A rendition of Kafka's work, totally unfit\n<br>Discovered at NGMA, Films from a bygone age\n<br>Permit us to conclude that all the world's a stage",
                 "buttons": " <a data-app-btn=\"true\" class=\"btn  btn-white-outline display-4\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">FOR MAC</a>"
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/mbr-3-1620x1080.jpg",
+                "image": "@PROJECT_PATH@/assets/images/music-1107x830.jpg",
                 "active": false,
                 "showButtons": false,
                 "showText": true,
@@ -469,7 +472,7 @@
                 "buttons": " <a data-app-btn=\"true\" class=\"btn  btn-white-outline display-4\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">FOR MAC</a>"
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/mbr-4-1620x1080.jpg",
+                "image": "@PROJECT_PATH@/assets/images/wine-6-1190x892.jpg",
                 "active": false,
                 "showButtons": false,
                 "showText": true,
@@ -517,10 +520,11 @@
                 "overlay": true,
                 "contentAlign": "center",
                 "text": "Bitten by bugs of wanderlust and contemplation,\n<br>On New Year's Eve, camping beneath the stars, in a grassland-y destination\n<br>Then long drives to God's own country, a picturesque hill-station,\n<br>Followed by moonlight talks beside a coffee plantation",
-                "buttons": " <a data-app-btn=\"true\" class=\"btn  btn-white-outline display-4\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">FOR MAC</a>"
+                "buttons": " <a data-app-btn=\"true\" class=\"btn  btn-white-outline display-4\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">FOR MAC</a>",
+                "overlayOpacity": "0.1"
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/mbr-1-1618x1080.jpg",
+                "image": "@PROJECT_PATH@/assets/images/whitefield-1107x830.jpg",
                 "active": false,
                 "showButtons": false,
                 "showText": true,
@@ -537,7 +541,7 @@
                 "buttons": " <a data-app-btn=\"true\" class=\"btn  btn-white-outline display-4\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">FOR MAC</a>"
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/mbr-1626x1080.jpg",
+                "image": "@PROJECT_PATH@/assets/images/conversation-1080x809.jpg",
                 "active": false,
                 "showButtons": false,
                 "showText": true,
@@ -554,7 +558,7 @@
                 "buttons": " <a data-app-btn=\"true\" class=\"btn  btn-white-outline display-4\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">FOR MAC</a>"
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/mbr-1616x1080.jpg",
+                "image": "@PROJECT_PATH@/assets/images/upgrade-1107x830.jpg",
                 "active": false,
                 "showButtons": false,
                 "showText": true,
@@ -567,12 +571,12 @@
                 "title": "",
                 "overlay": true,
                 "contentAlign": "center",
-                "text": "Of the version upgrades, 'tis certain I must commend\n<br>Oh! Through 11 levels did our friend ascend!\n<br>Winning a hackathon and nanodegree,\n<br>A year ago, not one person could foresee.\n<br>From actually reading books till the end to publishing on Medium,\n<br>One could now certainly say Birdie follows \"Carpe Diem\".",
+                "text": "Of the version upgrades, 'tis certain I must commend\n<br>Oh! Through 11 levels did our friend ascend!\n<br>Winning a hackathon and nanodegree,\n<br>A year ago, not one person could foresee.\n<br>From actually reading books till the end to publishing on Medium,\n<br>One could now certainly say Birdie believes in \"Carpe Diem\".",
                 "buttons": " <a data-app-btn=\"true\" class=\"btn  btn-white-outline display-4\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">FOR MAC</a>"
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/mbr-1581x1080.jpg",
-                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/img-20170713-232841-1107x830.jpg",
+                "active": true,
                 "showButtons": false,
                 "showText": true,
                 "showTitle": false,
@@ -601,7 +605,7 @@
                 "title": "",
                 "overlay": true,
                 "contentAlign": "center",
-                "text": "Yet another revolution around the Sun! Happy Twenty-Four!\n<br>Here's looking forward to an amazing year and version upgrades galore!",
+                "text": "Yet another revolution around the Sun, Doofus! Happy Twenty-Four!\n<br>Here's looking forward to version upgrades galore!",
                 "buttons": " <a data-app-btn=\"true\" class=\"btn  btn-white-outline display-4\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">FOR MAC</a>"
               }
             ]
