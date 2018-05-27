@@ -303,11 +303,11 @@
             "slides": [
               {
                 "image": "@PROJECT_PATH@/assets/images/mbr-1618x1080.jpg",
-                "active": false,
+                "active": true,
                 "showButtons": false,
                 "showText": true,
                 "showTitle": false,
-                "playVideo": false,
+                "playVideo": true,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
                 "customStyle1": "display-1",
                 "customStyle2": "display-5",
@@ -576,7 +576,7 @@
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/img-20170713-232841-1107x830.jpg",
-                "active": true,
+                "active": false,
                 "showButtons": false,
                 "showText": true,
                 "showTitle": false,
