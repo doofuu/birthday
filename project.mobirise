@@ -303,7 +303,7 @@
             "slides": [
               {
                 "image": "@PROJECT_PATH@/assets/images/mbr-1618x1080.jpg",
-                "active": true,
+                "active": false,
                 "showButtons": false,
                 "showText": true,
                 "showTitle": false,
@@ -332,7 +332,7 @@
                 "title": "",
                 "overlay": true,
                 "contentAlign": "center",
-                "text": "Explorations galore\n<br>In good ol' Bangalore\n<br>The directions of the compass\n<br>Being uncovered by our very own doofus",
+                "text": "Explorations galore\n<br>In good ol' Bangalore;&nbsp;<br>The directions of the compass,&nbsp;<br>Uncovered by our very own doofus.",
                 "buttons": " <a data-app-btn=\"true\" class=\"btn  btn-white-outline display-4\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">FOR MAC</a>"
               },
               {
@@ -349,7 +349,7 @@
                 "title": "",
                 "overlay": true,
                 "contentAlign": "center",
-                "text": "Galloping in the midst of greenery\n<br>Lalbagh and Cubbon Park, to enjoy the scenery\n<br>JP Park, to call a passerby, \"aunty\"\n<br>Police Traffic Park, just falling short of sanskaari",
+                "text": "Galloping in the midst of greenery<br>In Lalbagh and Cubbon Park, enjoying the scenery;&nbsp;<br>In JP Park, christening an innocent passerby, \"aunty\";<br>In Police Traffic Park, just falling short of sanskaari.",
                 "buttons": " <a data-app-btn=\"true\" class=\"btn  btn-white-outline display-4\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">FOR MAC</a>"
               },
               {
@@ -366,7 +366,7 @@
                 "title": "",
                 "overlay": true,
                 "contentAlign": "center",
-                "text": "Thubarahalli Lake, hoping not to get abducted\n<br>Kaikondrahalli Lake, where yoga was disrupted\n<br>Pelicans that made Madiwala Lake so serene\n<br>Jesus water that made Ulsoor Lake dark green",
+                "text": "Hoping, at Thubarahalli Lake, not to get abducted;&nbsp;<br>At Kaikondrahalli Lake, where yoga was disrupted.&nbsp;<br>Sshh! Pelicans made Madiwala Lake seem so serene,&nbsp;<br>while Jesus water turned Ulsoor Lake dark green.",
                 "buttons": " <a data-app-btn=\"true\" class=\"btn  btn-white-outline display-4\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">FOR MAC</a>"
               },
               {
@@ -383,7 +383,7 @@
                 "title": "",
                 "overlay": true,
                 "contentAlign": "center",
-                "text": "Ah! It isn't becoming of me to ignore\n<br>Sneaking undercover in through the door\n<br>Of DIamond District, White Houzz and the Leela Palace Hotel,\n<br>And Ritz Carlton and Royal Orchid as well",
+                "text": "Ah! It will be unbecoming of me to ignore\n<br>Sneaking undercover in through the door\n<br>Of Diamond District, White Houzz and the Leela Palace Hotel,\n<br>And Ritz Carlton and Royal Orchid as well.",
                 "buttons": " <a data-app-btn=\"true\" class=\"btn  btn-white-outline display-4\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">FOR MAC</a>"
               },
               {
@@ -400,7 +400,7 @@
                 "title": "",
                 "overlay": true,
                 "contentAlign": "center",
-                "text": "At St. John's, with deer to be acquainted\n<br>Evicted from St. Francis Xavier's for not being sacred\n<br>Propaganda in the Bangalore Palace under disguise\n<br>Following a Doggo to a shelter, gazing into their cute eyes.",
+                "text": "Besides St. John's, with deer, getting acquainted;&nbsp;<br>Evicted from St. Francis Xavier's for not being sacred;&nbsp;<br>Propaganda in the Bangalore Palace under disguise;&nbsp;<br>Following a Doggo to a shelter, gazing into their cute eyes.",
                 "buttons": " <a data-app-btn=\"true\" class=\"btn  btn-white-outline display-4\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">FOR MAC</a>"
               },
               {
@@ -417,7 +417,7 @@
                 "title": "",
                 "overlay": true,
                 "contentAlign": "center",
-                "text": "Not to forget the air of competition\n<br>Defeated, in air hockey and snooker, by a narrow margin, \n<br>Only to be brought, in carrom, to my knees\n<br>And \"boggle\"d by Birdie's quick abc's",
+                "text": "Not to forget the air of competition,&nbsp;<br>Defeated, in air hockey and snooker, by a narrow margin, \n<br>Only to be brought, in carrom, to my knees\n<br>And \"boggle\"d by Birdie's quick ABC's.",
                 "buttons": " <a data-app-btn=\"true\" class=\"btn  btn-white-outline display-4\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">FOR MAC</a>"
               },
               {
@@ -434,7 +434,7 @@
                 "title": "",
                 "overlay": true,
                 "contentAlign": "center",
-                "text": "Reading habits grew by leaps and a bound\n<br>As BYOB, we suddenly found \n<br>While new houses we got to explore,\n<br>IIM, JP Nagar and so much more",
+                "text": "Reading habits grew by leaps and a bound,&nbsp;<br>As BYOB, we unexpectedly found. &nbsp;<br>New houses we got to explore,\n<br>along with IIM, JP Nagar and so much more.",
                 "buttons": " <a data-app-btn=\"true\" class=\"btn  btn-white-outline display-4\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">FOR MAC</a>"
               },
               {
@@ -451,7 +451,7 @@
                 "title": "",
                 "overlay": true,
                 "contentAlign": "center",
-                "text": "<br><br><br><br><br><br><br><br><br>Spellbound by Handlebards and Ruskin bond's short skit\n<br>A rendition of Kafka's work, totally unfit\n<br>Discovered at NGMA, Films from a bygone age\n<br>Permit us to conclude that all the world's a stage",
+                "text": "<br><br><br><br><br><br><br><br><br>Spellbound by Handlebards and Ruskin bond's short skit,&nbsp;<br>And a rendition of Kafka's work, totally unfit,<br>We discovered at NGMA, Films from a bygone age\n<br>Permitted us to conclude that all the world's a stage.",
                 "buttons": " <a data-app-btn=\"true\" class=\"btn  btn-white-outline display-4\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">FOR MAC</a>"
               },
               {
@@ -468,7 +468,7 @@
                 "title": "",
                 "overlay": true,
                 "contentAlign": "center",
-                "text": "Rhythms at Ambedkar Bhavan; at Cubbon park, a solo show;\n<br>Musical tastes expanded, listening to BBC radio,\n<br>\"Unforgettable\" is the way in which we sang Despacito,\n<br>Once sworn to be truly non-eeettt, but no mo(re)",
+                "text": "At Ambedkar Bhavan and Cubbon park, rhythms and a solo show;&nbsp;<br>Musical tastes expanded, listening to BBC radio.&nbsp;<br>\"Unforgettable\" is the way in which we sang Despacito.&nbsp;<br>Once sworn to be truly non-eeettt, but no mo(re).",
                 "buttons": " <a data-app-btn=\"true\" class=\"btn  btn-white-outline display-4\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">FOR MAC</a>"
               },
               {
@@ -485,7 +485,7 @@
                 "title": "",
                 "overlay": true,
                 "contentAlign": "center",
-                "text": "Of course, fascinating tales of inebriation\n<br>Must not and will not be forgotten.\n<br>From sprinkling oregano in happy-hours Bootlegger\n<br>To riding a witch's broom and transforming into a wine taster",
+                "text": "Of course, fascinating tales of inebriation\n<br>Cannot have the bad fortune of being left forgotten -&nbsp;<br>From sprinkling oregano in happy-hours in Bootlegger\n<br>To riding a witch's broom and transforming into a wine taster.",
                 "buttons": " <a data-app-btn=\"true\" class=\"btn  btn-white-outline display-4\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">FOR MAC</a>"
               },
               {
@@ -502,12 +502,12 @@
                 "title": "",
                 "overlay": true,
                 "contentAlign": "center",
-                "text": "Of Knowledge, never did cease, our pursuit \n<br>Cycling around and exploring science at the Tata Institute\n<br>Artificial Life with Zinadine Zidane and Kaafi with Kuriosity\n<br>In and around the planetarium, playing with gravity and water's velocity.",
+                "text": "Of Knowledge, never did cease, our pursuit -<br>Cycling around and exploring science at the Tata Institute;&nbsp;<br>Artificial Life with Zinadine Zidane and Kaafi with Kuriosity;&nbsp;<br>In and around the planetarium, playing with gravity and water's velocity.",
                 "buttons": " <a data-app-btn=\"true\" class=\"btn  btn-white-outline display-4\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">FOR MAC</a>"
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/hesaraghatta2-1108x830.jpg",
-                "active": false,
+                "active": true,
                 "showButtons": false,
                 "showText": true,
                 "showTitle": false,
@@ -519,9 +519,9 @@
                 "title": "",
                 "overlay": true,
                 "contentAlign": "center",
-                "text": "Bitten by bugs of wanderlust and contemplation,\n<br>On New Year's Eve, camping beneath the stars, in a grassland-y destination\n<br>Then long drives to God's own country, a picturesque hill-station,\n<br>Followed by moonlight talks beside a coffee plantation",
+                "text": "Bitten by bugs of wanderlust and contemplation,\n<br>On New Year's Eve, camping beneath the stars, in a grassland-y destination;<br>Long drives to God's own country, a picturesque hill-station,\n<br>Moonlight talks and hugs beside a coffee plantation.",
                 "buttons": " <a data-app-btn=\"true\" class=\"btn  btn-white-outline display-4\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">FOR MAC</a>",
-                "overlayOpacity": "0.1"
+                "overlayOpacity": "0.2"
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/whitefield-1107x830.jpg",
@@ -537,7 +537,7 @@
                 "title": "",
                 "overlay": true,
                 "contentAlign": "center",
-                "text": "When, to Whitefield, my immigration, inevitable, proved to be, \n<br>Fears filled my heart, of the future, being dreary\n<br>But through it all, I realized how much I could rely\n<br>On this girl who is a supercalifragilisticexpialidocious ally!",
+                "text": "When, to Whitefield, my immigration, inevitable, proved to be, \n<br>Fears filled my heart, of the future, being dreary.<br>But through it all, I realized how much I could rely\n<br>On this girl who is a supercalifragilisticexpialidocious ally!",
                 "buttons": " <a data-app-btn=\"true\" class=\"btn  btn-white-outline display-4\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">FOR MAC</a>"
               },
               {
@@ -554,7 +554,7 @@
                 "title": "",
                 "overlay": true,
                 "contentAlign": "center",
-                "text": "Conversations covering every sort of topic\n<br>Ranging from the microscopic to the macroscopic\n<br>Now we discuss everything under the \"moon\"\n<br>Just counting our whatsapp groups would make Zuckerberg swoon.",
+                "text": "Conversations covering every sort of topic,&nbsp;<br>Ranging from the microscopic to the macroscopic,<br>Now we discuss everything under the \"moon\",&nbsp;<br>Our multitudinous whatsapp groups would make Zuckerberg swoon.",
                 "buttons": " <a data-app-btn=\"true\" class=\"btn  btn-white-outline display-4\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">FOR MAC</a>"
               },
               {
@@ -571,7 +571,7 @@
                 "title": "",
                 "overlay": true,
                 "contentAlign": "center",
-                "text": "Of the version upgrades, 'tis certain I must commend\n<br>Oh! Through 11 levels did our friend ascend!\n<br>Winning a hackathon and nanodegree,\n<br>A year ago, not one person could foresee.\n<br>From actually reading books till the end to publishing on Medium,\n<br>One could now certainly say Birdie believes in \"Carpe Diem\".",
+                "text": "Of the version upgrades, 'tis certain I must commend!&nbsp;<br>Oh! Through 11 levels did our protagonist ascend!\n<br>Winning a hackathon and nanodegree,\n<br>A year ago, not even the Doctor could foresee.\n<br>From actually reading books completely to publishing on Medium,\n<br>One could now certainly claim Birdie believes in \"Carpe Diem\".",
                 "buttons": " <a data-app-btn=\"true\" class=\"btn  btn-white-outline display-4\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">FOR MAC</a>"
               },
               {
@@ -588,7 +588,7 @@
                 "title": "",
                 "overlay": true,
                 "contentAlign": "center",
-                "text": "Our symbiotic relationship, I love most certainly\n<br>For better people, it makes us most assuredly\n<br>Our \"I, winner\" contests must never cease\n<br>As we strive together, to be a masterpiece.",
+                "text": "<br><br><br><br><br><br><br><br><br><br><br><br>Our symbiotic relationship, I love most certainly,&nbsp;<br>For better people, it makes us most assuredly,<br>Our \"I, winner\" contests must never cease,<br>As we strive together, to be a masterpiece!",
                 "buttons": " <a data-app-btn=\"true\" class=\"btn  btn-white-outline display-4\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">FOR MAC</a>"
               },
               {
@@ -605,7 +605,7 @@
                 "title": "",
                 "overlay": true,
                 "contentAlign": "center",
-                "text": "Yet another revolution around the Sun, Doofus! Happy Twenty-Four!\n<br>Here's looking forward to version upgrades galore!",
+                "text": "Happy Twenty-Four!\n<br>Here's looking forward to version upgrades galore!<br>Yet another revolution around the Sun!<br>Oi Doofus! Have lots of fun!",
                 "buttons": " <a data-app-btn=\"true\" class=\"btn  btn-white-outline display-4\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">FOR MAC</a>"
               }
             ]
